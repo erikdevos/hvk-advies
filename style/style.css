@@ -311,7 +311,7 @@ ul.usp li {
 
 /* special styling for image widget nr2 */
 #wp_editor_widget-2 {
-    background: url(/resources/footer.jpg) no-repeat center center;
+    background: url(resources/footer.jpg) no-repeat center center;
     background-size: cover;
 	height: 200px;
 }
